@@ -1,0 +1,11 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "chrome": 52,
+        "browsers": ["safari > 7"]
+      },
+      "loose": true
+    }]
+  ]
+}
